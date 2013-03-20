@@ -1,1 +1,0 @@
-{"name":"Blog","tagline":"ibare blog","body":"### ibare 블로그를 시작합니다.\r\n페이스북도 있고 텀블러도 있고 하지만 개인사와 섞여있는 개발 관련 정보가 썩 마음에 들지는 않아 (많지는 않지만 ㅡ.ㅡ;) 기술 관련 정보 포스팅만을 목적으로 깃헙의 페이지를 사용해보기로 함. \r\n\r\n```\r\n$ cd ibare/blog\r\n$ git init\r\n```\r\n\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
