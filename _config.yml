@@ -1,2 +1,6 @@
 markdown: rdiscount
 pygments: true
+auto: true
+permalink: pretty
+future: true
+server_port: 8000
