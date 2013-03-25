@@ -1,0 +1,3 @@
+[submodule "submodule/meny"]
+	path = submodule/meny
+	url = https://github.com/hakimel/Meny.git
